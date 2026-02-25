@@ -67,9 +67,6 @@ Get-Process        # List running processes
 - Network fundamentals, protocols, security
 
 ## Resources
-
-- Microsoft Docs: https://docs.microsoft.com
-- PowerShell Documentation: https://learn.microsoft.com/en-us/powershell/
 - CompTIA A+ Study Guide
 
 ---
