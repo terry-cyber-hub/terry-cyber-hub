@@ -7,7 +7,7 @@ Building Deep Understanding of IT Security For My Interest in Cloud Security
 - Windows & Linux Command Line Fundamentals
 - Security Fundamentals (Security Controls Usage & Basic Knowledge of Vulnerabilities)
 - Virtualization (VMware)
-- Basic SQL Queries (SELECT, WHERE, ORDER BY, LIMIT)
+- Basic SQL Queries (SELECT, WHERE, FROM)
 - Communication
 - Bat File Creation
 ## Projects
