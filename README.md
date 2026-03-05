@@ -1,17 +1,17 @@
 # Hi, I'm Terry 
 
-Cybersecurity Student at SMCC  
-Focused on Networking, Systems, and Defensive Security  
-Building hands-on labs to develop real-world cybersecurity skills
+Cybersecurity Student at SMCC
+Building Deep Understanding of IT Security For My Interest in Cloud Security
 ## Skills
-- Networking (TCP/IP, Subnetting, DNS, DHCP)
-- Windows & Linux fundamentals
-- Security fundamentals (CIA Triad, Access Control)
-- Virtualization (VirtualBox)
-- Basic scripting (Python / PowerShell)
+- Networking (IP configuration, Subnetting, DNS, DHCP)
+- Windows & Linux Command Line Fundamentals
+- Security Fundamentals (Security Controls Usage & Basic Knowledge of Vulnerabilities)
+- Virtualization (VMware)
+- Basic SQL Queries
+- Communication
+- Bat File Creation
 ## Projects
-- Cybersecurity Home Lab (Windows + Linux)
-- Networking Labs & Subnetting Practice
-- System Hardening & Log Analysis
+- Cybersecurity VM Lab (Windows + Linux)
+- Vibe Coding Simple Port Scanner "Terry's Network Scout" (summer project 2026)
 
 
