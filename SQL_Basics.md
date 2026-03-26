@@ -21,6 +21,6 @@ SELECT name, area FROM world
   WHERE area BETWEEN 200000 AND 250000
 
   # Note:
-- The WHERE clause allowed us to sshow the population of france and we have to always make sure that that the strings are in single quotes
+- The WHERE clause allowed us to show the population of france and we have to always make sure that the strings are in single quotes
 - The IN operator allows us to check if an item is in the list
 - The BETWEEN operator shows range checking
