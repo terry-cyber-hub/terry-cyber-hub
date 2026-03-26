@@ -11,3 +11,5 @@
 **What I learned:** 
 One of the alternatives when you are dealing with frequent shutdowns and reboots is to copy the code from the device you suspect is causing the issues and browse it in the microsoft database.
 Hope this helps you If you are facing shutdown issues with your windows OS.
+
+Here's a video that illustrates all these steps clearly; https://youtu.be/06gQ4TJKVbY
