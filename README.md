@@ -10,7 +10,7 @@ Building Deep Understanding of IT Security For My Interest in Cloud Security
 - Basic SQL Queries (SELECT, WHERE, FROM)
 - Communication (Verbal and Written)
 - Bat File Creation
-- Get My Security+ Summer 2026
+- Getting My Security+ Summer 2026
 ## Projects
 - Cybersecurity VM Lab (Windows + Linux)
 - Vibe Coding Simple Port Scanner "Terry's Network Scout" (summer project 2026)
