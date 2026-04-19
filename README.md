@@ -13,6 +13,6 @@ Building Deep Understanding of IT Security For My Interest in Cloud Security
 - Getting My Security+ Summer 2026
 ## Projects
 - Cybersecurity VM Lab (Windows + Linux)
-- Vibe Coding Simple Port Scanner "Terry's Network Scout" (summer project 2026)
+- Cloud-based SIEM And Threat Map (Azure) (summer project 2026)
 
 
