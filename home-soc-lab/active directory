@@ -1,0 +1,22 @@
+# Windows Active Directory Home Lab & Security Hardening
+## Project Overview
+This project involves the deployment of a virtualized enterprise network environment. I configured a Windows Server 2022 instance as a Primary Domain Controller (PDC) and integrated a Windows 11 workstation into the domain. The goal was to demonstrate proficiency in identity management, DNS configuration, and the application of Group Policy Objects (GPOs) to enforce security best practices.
+
+## Technical Stack
+* **Hypervisor:** VMware Workstation Pro
+* **Operating Systems:** Windows Server 2022, Windows 11 Pro
+* **Services:** Active Directory Domain Services (AD DS), DNS, DHCP
+
+## Key Implementations
+* **Network Isolation:** Designed a private virtual LAN (Host-Only) to simulate an isolated corporate environment.
+* **Domain Promotion:** Successfully promoted Server 2022 to a DC for the `cyberlab.local` forest.
+* **DNS Orchestration:** Configured manual IPv4 addressing and pointed client DNS to the DC to ensure proper name resolution.
+* **Workstation Integration:** Authorized and joined a Windows 11 client to the domain, verifying end-to-end connectivity.
+
+## Troubleshooting & Learnings
+* **DNS Suffix Issue:** Resolved a conflict where VMware's default DHCP injected a "localdomain" suffix, preventing domain discovery. Fixed via static IP assignment.
+* **Authentication Logic:** Managed the distinction between local system accounts and Domain Administrator credentials during the provisioning phase.
+
+## Visual Proof
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/25fb76c9-4932-461e-bb97-91872bc9586b" />
+*screenshot: Confirmation of successful domain join.*
