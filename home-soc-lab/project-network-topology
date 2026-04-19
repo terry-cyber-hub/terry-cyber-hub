@@ -1,4 +1,5 @@
 ### Project Network Topology
+
 ```mermaid
 graph TD
     subgraph "VMware Workstation Pro"
@@ -13,4 +14,4 @@ graph TD
     classDef server fill:#f96,stroke:#333,stroke-width:2px;
     class DC server;
 
-    
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/af1ae771-7485-4cca-9b74-706775687064" />
