@@ -3,6 +3,7 @@
 Cybersecurity Student at SMCC
 Building Deep Understanding of IT Security For My Interest in Cloud Security
 ## Skills
+- Active Directory
 - Networking (IP configuration, Subnetting, DNS, DHCP)
 - Windows & Linux Command Line Fundamentals
 - Security Fundamentals (Security Controls Usage & Basic Knowledge of Vulnerabilities)
@@ -12,7 +13,8 @@ Building Deep Understanding of IT Security For My Interest in Cloud Security
 - Bat File Creation
 - Getting My Security+ Summer 2026
 ## Projects
-- Cybersecurity VM Lab (Windows + Linux)
-- Cloud-based SIEM And Threat Map (Azure) (summer project 2026)
+- Cybersecurity VM Lab (Windows 11 Pro + Linux + Windows Server 2022)
+- SQL Queries
+- Network Architecture & Subnetting Design
 
 
