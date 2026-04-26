@@ -14,7 +14,7 @@ Building Deep Understanding of IT Security For My Interest in Cloud Security
 - Getting My Security+ Summer 2026
 ## Projects
 - Cybersecurity VM Lab (Windows 11 Pro + Linux + Windows Server 2022)
-- SQL Queries
+- Microsoft Active Directory
 - Network Architecture & Subnetting Design
 
 
