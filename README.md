@@ -1,7 +1,7 @@
 # Hi, I'm Terry 
 
 Cybersecurity Student at SMCC
-Building Deep Understanding of IT Security For My Interest in Cloud Security
+Building Deep Understanding of IT For My Interest in Cloud Security
 ## Skills
 - Active Directory
 - Networking (IP configuration, Subnetting, DNS, DHCP)
