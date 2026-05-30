@@ -1,43 +1,71 @@
 **IT Help Desk Lab — Jira Service Management Simulation**
+
+
+
+
+
+
 **Project Overview**
 
 This project is a simulated IT help desk environment where I practiced real-world IT support tasks using a ticketing system. I used this lab to learn how IT technicians handle common user problems, document issues, and resolve tickets like in a real company.
 
+
+
+
 **I simulated two main support tickets:**
 
-Account lockout
-Password reset
+- Account lockout
+- Password reset
+
+
 **Tools Used**
 Jira Service Management — for creating and managing IT support tickets
+
 VMware Workstation — for running virtual machines
+
 Windows Server 2022 — used as the domain controller in the lab
+
 Windows 11 — used as the client machine
-Lab Setup
+
+**Lab Setup**
+
+
 
 **I built a small virtual IT environment:**
 
-Windows Server 2022 acting as a Domain Controller
-Windows 11 client machine joined to the domain
-Both machines running inside VMware Workstation Pro
-Jira Service Management used as the help desk system
-Tickets I Simulated and Resolved
+- Windows Server 2022 acting as a Domain Controller
+- Windows 11 client machine joined to the domain
+- Both machines running inside VMware Workstation Pro
+- Jira Service Management used as the help desk system
+- Tickets I Simulated and Resolved
+
+
+
 **1. Account Lockout**
+
+
 Problem:
 The user account was locked after multiple failed login attempts.
 
 What I did:
 
-Checked Active Directory for locked account
-Unlocked the user account
-Reset password when needed
-Tested login on Windows 11 client
+- Checked Active Directory for locked account
+- Unlocked the user account
+- Reset password when needed
+- Tested login on Windows 11 client
 
 Result:
+
+
 User was able to log in successfully again.
 
-**3. Password Reset**
+**2. Password Reset**
+
+
 Problem:
 User forgot their password and could not log in.
+
+
 
 **What I did:**
 
@@ -50,20 +78,25 @@ Verified login from Windows 11 client
 User successfully logged in with new password.
 
 **Skills Practiced**
-IT troubleshooting and problem solving
-Active Directory user management
-DHCP and network troubleshooting
-Password and account management
-Ticket documentation in Jira
-Simulating real IT support workflows
+
+
+- IT troubleshooting and problem solving
+- Active Directory user management
+- DHCP and network troubleshooting
+- Password and account management
+- Ticket documentation in Jira
+- Simulating real IT support workflows
+
+
+
 **What I Learned**
 
 This project helped me understand how real IT help desk environments work. I learned how to:
 
-Diagnose common user issues
-Work through structured troubleshooting steps
-Document solutions clearly in a ticketing system
-Use Windows Server tools in a practical way
+- Diagnose common user issues
+- Work through structured troubleshooting steps
+- Document solutions clearly in a ticketing system
+- Use Windows Server tools in a practical way
 
 **Screenshots:**
 <img width="1877" height="935" alt="Screenshot 2026-05-25 214003" src="https://github.com/user-attachments/assets/be28f78b-05d3-4b47-9fa9-387a57637cc6" />
