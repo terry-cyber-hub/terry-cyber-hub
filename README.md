@@ -11,7 +11,7 @@ Building Deep Understanding of IT For My Interest in Cloud Security
 - Basic SQL Queries (SELECT, WHERE, FROM)
 - Communication (Verbal and Written)
 - Bat File Creation
-- Getting My Security+ Summer 2026
+- Comptia Security+ Certified
 ## Projects
 - Cybersecurity VM Lab (Windows 11 Pro + Linux + Windows Server 2022)
 - Microsoft Active Directory
