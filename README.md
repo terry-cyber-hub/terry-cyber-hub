@@ -13,6 +13,7 @@ Building Deep Understanding of IT For My Interest in Cloud Security
 - Bat File Creation
 - Comptia Security+ Certified
 - PowerShell Scripting
+- AI automation
 ## Projects
 - Cybersecurity VM Lab (Windows 11 Pro + Linux + Windows Server 2022)
 - Microsoft Active Directory
