@@ -2,6 +2,9 @@
 
 Cybersecurity Student at SMCC
 Building Deep Understanding of IT For My Interest in Cloud Security
+
+## Certifications
+- CompTIA Security+
 ## Skills
 - Active Directory
 - Networking (IP configuration, Subnetting, DNS, DHCP)
