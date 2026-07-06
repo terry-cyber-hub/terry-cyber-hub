@@ -6,7 +6,7 @@ Building Deep Understanding of IT For My Interest in Cloud Security
 ## Certifications
 - CompTIA Security+
 
-## Projects
+## IT Projects
 - Home VM Lab (Windows 11 Pro + Linux + Windows Server 2022)
 - Microsoft Active Directory
 - Network Architecture & Subnetting Design
