@@ -11,6 +11,7 @@ Building Deep Understanding of IT For My Interest in Cloud Security
 - Microsoft Active Directory
 - Network Architecture & Subnetting Design
 - Jira Service Management Help Desk Lab
+  https://github.com/terry-cyber-hub/terry-cyber-hub/blob/main/home-soc-lab/Jira-helpdesk-lab/README.md?plain=1
 - AI-Powered IT Support Automation Project
 
 ## Skills
