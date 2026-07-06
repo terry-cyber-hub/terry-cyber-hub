@@ -14,15 +14,43 @@ Building Deep Understanding of IT For My Interest in Cloud Security
 - AI-Powered IT Support Automation Project
 
 ## Skills
-- Active Directory
-- Networking (IP configuration, Subnetting, DNS, DHCP)
-- Windows & Linux Command Line Fundamentals
-- Security Fundamentals (Security Controls Usage & Basic Knowledge of Vulnerabilities)
-- Virtualization (VMware)
-- Basic SQL Queries (SELECT, WHERE, FROM)
-- Communication (Verbal and Written)
-- Bat File Creation
-- Comptia Security+ Certified
-- PowerShell Scripting
-- AI automation
+
+### Operating Systems
+
+* Windows
+* Linux (Command Line Fundamentals)
+
+### Networking
+
+* IP Addressing & Configuration
+* Subnetting
+* DNS
+* DHCP
+
+### Systems Administration
+
+* Active Directory
+* VMware Virtualization
+
+### Security
+
+* Security Controls
+* Basic Vulnerability Assessment
+* CompTIA Security+
+
+### Scripting & Automation
+
+* PowerShell
+* Batch (BAT) File Scripting
+* AI Automation
+
+### Programming & Databases
+
+* SQL (SELECT, FROM, WHERE)
+
+### Professional Skills
+
+* Written Communication
+* Verbal Communication
+
 
