@@ -1,10 +1,11 @@
 # Hi, I'm Terry 
 
 Cybersecurity Student at SMCC
-Building Deep Understanding of IT For My Interest in Cloud Security
+Building Deep Understanding of Information Technology
 
 ## Certifications
 - CompTIA Security+
+- CompTIA Network+ (Expected fall 2026)
 
 ## IT Projects
 - Home VM Lab (Windows 11 Pro + Linux + Windows Server 2022)
@@ -12,6 +13,7 @@ Building Deep Understanding of IT For My Interest in Cloud Security
 - Network Architecture & Subnetting Design: https://github.com/terry-cyber-hub/Network-Infrastructure-Simulation/blob/main/README.md
 - Jira Service Management Help Desk Lab: https://github.com/terry-cyber-hub/terry-cyber-hub/blob/main/home-soc-lab/Jira-helpdesk-lab/README.md?plain=1
 - AI-Powered IT Support Automation Project
+- SQL- Queries: https://github.com/terry-cyber-hub/terry-cyber-hub/blob/main/home-soc-lab/SQL-%20Queries
 
 ## Skills
 
