@@ -1,3 +1,52 @@
+# AI-Powered IT Support Automation
+
+## Overview
+
+This project demonstrates an AI-assisted IT support workflow designed to help technicians troubleshoot common user issues more efficiently.
+
+The project uses AI tools to analyze support tickets, recommend troubleshooting steps, and assist with technical documentation. PowerShell automation is used to collect system information and validate solutions in a Windows 11 environment.
+
+## Tools Used
+
+* Microsoft Copilot
+* Claude
+* PowerShell
+* Windows 11 Virtual Machine
+
+## Problem
+
+A user reported that their Windows 11 laptop could detect a company Wi-Fi network but was unable to connect.
+
+The goal was to identify the possible cause, troubleshoot the issue, and document the resolution using an AI-assisted support process.
+
+## Solution
+
+1. Created a simulated IT support ticket based on a real-world user issue.
+2. Used AI tools to analyze the ticket and generate possible causes and troubleshooting steps.
+3. Reviewed and validated the AI recommendations manually.
+4. Created a PowerShell script to automate network diagnostics, including:
+
+   * Checking network adapter status
+   * Reviewing IP configuration
+   * Testing connectivity
+   * Verifying DNS resolution
+5. Documented the troubleshooting process and final resolution.
+
+## Results
+
+The workflow successfully demonstrated how AI can assist IT technicians by improving ticket analysis, reducing repetitive troubleshooting tasks, and creating consistent technical documentation.
+
+This project highlights skills in:
+
+* Windows troubleshooting
+* PowerShell automation
+* Network diagnostics
+* AI-assisted IT operations
+* Technical documentation
+
+
+## Screenshots:
+
 <img width="953" height="366" alt="Screenshot 2026-07-06 192714" src="https://github.com/user-attachments/assets/9c97f541-7766-4eb2-b550-6cc35163c0fc" />
 
 
