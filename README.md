@@ -8,12 +8,10 @@ Building Deep Understanding of Information Technology
 - CompTIA Network+ (Expected fall 2026)
 
 ## IT Projects
-- AI-Powered IT Support Automation Project
-- Home VM Lab (Windows 11 Pro + Linux + Windows Server 2022)
+- AI-Powered IT Support Automation Project: https://github.com/terry-cyber-hub/terry-cyber-hub/tree/7162a5d7d25e70aa530710a9bebdbfda0fa7a7a6/home-soc-lab/AI-IT-Support-Automation
 - Microsoft Active Directory: https://github.com/terry-cyber-hub/terry-cyber-hub/blob/main/home-soc-lab/Active%20Directory.md
 - Network Architecture & Subnetting Design: https://github.com/terry-cyber-hub/Network-Infrastructure-Simulation/blob/main/README.md
 - Jira Service Management Help Desk Lab: https://github.com/terry-cyber-hub/terry-cyber-hub/blob/main/home-soc-lab/Jira-helpdesk-lab/README.md?plain=1
-- AI-Powered IT Support Automation Project
 - SQL- Queries: https://github.com/terry-cyber-hub/terry-cyber-hub/blob/main/home-soc-lab/SQL-%20Queries
 
 ## Skills
