@@ -10,7 +10,6 @@ Building Deep Understanding of Information Technology
 ## IT Projects
 - AI-Powered IT Support Automation Project: https://github.com/terry-cyber-hub/terry-cyber-hub/tree/7162a5d7d25e70aa530710a9bebdbfda0fa7a7a6/home-soc-lab/AI-IT-Support-Automation
 - Microsoft Active Directory: https://github.com/terry-cyber-hub/terry-cyber-hub/blob/main/home-soc-lab/Active%20Directory.md
-- Network Architecture & Subnetting Design: https://github.com/terry-cyber-hub/Network-Infrastructure-Simulation/blob/main/README.md
 - Jira Service Management Help Desk Lab: https://github.com/terry-cyber-hub/terry-cyber-hub/blob/main/home-soc-lab/Jira-helpdesk-lab/README.md?plain=1
 - SQL- Queries: https://github.com/terry-cyber-hub/terry-cyber-hub/blob/main/home-soc-lab/SQL-%20Queries
 
